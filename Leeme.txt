@@ -1,4 +1,6 @@
 PD0913_FramesLayoutsEvents
 ==========================
+OCTUBRE2014/SEMANA05
 
-Ejercicios en Java, utilizando Netbeans, arrastre de componentes, Eventos de mouse y teclado, manejos básico de layouts, principales componentes de la paleta
+Ejercicios en Java, utilizando Netbeans, arrastre de componentes, 
+Eventos de mouse y teclado, manejos básico de layouts, principales componentes de la paleta
